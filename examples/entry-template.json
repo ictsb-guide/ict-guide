@@ -1,0 +1,30 @@
+{
+  "id": "replace-with-unique-id",
+  "advisor": "填写导师姓名",
+  "group": "填写课题组或研究方向",
+  "title": "用一句话描述具体经历",
+  "category": "科研与指导",
+  "tags": [
+    "沟通反馈"
+  ],
+  "summary": "简要说明事件及信息来源，避免人身攻击。",
+  "status": "个人经历",
+  "demo": false,
+  "draft": true,
+  "sections": [
+    {
+      "heading": "事实经过",
+      "body": "记录具体事件和结果，省略日期和身份线索。"
+    },
+    {
+      "heading": "个人感受",
+      "body": "单独说明自己的体验与判断。"
+    },
+    {
+      "heading": "选导建议",
+      "body": "列出后来者可询问或核对的具体问题。"
+    }
+  ],
+  "sources": [],
+  "response": "尚未收到当事方回应。"
+}

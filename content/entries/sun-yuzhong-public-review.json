@@ -1,0 +1,28 @@
+{
+  "id": "sun-yuzhong-public-review",
+  "advisor": "孙毓忠",
+  "group": "CSDN · 网上汇总文章",
+  "title": "孙毓忠 · 评价原文",
+  "category": "沟通与管理",
+  "tags": [
+    "批评方式",
+    "二手汇总"
+  ],
+  "summary": "评价原文摘录，参考链接见下方。",
+  "status": "公开资料",
+  "demo": false,
+  "draft": false,
+  "sections": [
+    {
+      "heading": "原文摘录",
+      "body": "“语气和内容异常激烈。”"
+    }
+  ],
+  "sources": [
+    {
+      "label": "CSDN：网上汇总，操作系统研究组段落",
+      "url": "https://damodev.csdn.net/68a6f8f54e4959284dac191e.html"
+    }
+  ],
+  "submission": ""
+}

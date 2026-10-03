@@ -1,0 +1,29 @@
+{
+  "id": "source-sbl-public-review",
+  "advisor": "SBL（原站缩写）",
+  "group": "导师评价网 · ykakaoyan.cn",
+  "title": "SBL（原站缩写） · 评价原文",
+  "category": "工作与待遇",
+  "tags": [
+    "杂务",
+    "加班",
+    "补助"
+  ],
+  "summary": "评价原文摘录，参考链接见下方。",
+  "status": "公开资料",
+  "demo": false,
+  "draft": false,
+  "sections": [
+    {
+      "heading": "原文摘录",
+      "body": "“现在基本不在科研一线了”\n“杂活多，学生很讨厌他，千万不要报他的研究生”\n“加班多”"
+    }
+  ],
+  "sources": [
+    {
+      "label": "导师评价网：SBL匿名评价原页",
+      "url": "https://www.ykakaoyan.cn/tutor/13174"
+    }
+  ],
+  "submission": ""
+}

@@ -1,0 +1,29 @@
+{
+  "id": "zhuge-hai-public-review",
+  "advisor": "诸葛海",
+  "group": "CSDN · 网上汇总文章",
+  "title": "诸葛海 · 评价原文",
+  "category": "科研与指导",
+  "tags": [
+    "指导支持",
+    "方向选择",
+    "二手汇总"
+  ],
+  "summary": "评价原文摘录，参考链接见下方。",
+  "status": "公开资料",
+  "demo": false,
+  "draft": false,
+  "sections": [
+    {
+      "heading": "原文摘录",
+      "body": "“团队的研究方向不够明确”"
+    }
+  ],
+  "sources": [
+    {
+      "label": "CSDN：网上汇总，知识网格研究组段落",
+      "url": "https://damodev.csdn.net/68a6f8f54e4959284dac191e.html"
+    }
+  ],
+  "submission": ""
+}

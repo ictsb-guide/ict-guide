@@ -1,0 +1,29 @@
+{
+  "id": "source-zgx-public-review",
+  "advisor": "ZGX（原站缩写）",
+  "group": "导师评价网 · ykakaoyan.cn",
+  "title": "ZGX（原站缩写） · 评价原文",
+  "category": "科研与指导",
+  "tags": [
+    "指导支持",
+    "选题",
+    "毕业支持"
+  ],
+  "summary": "评价原文摘录，参考链接见下方。",
+  "status": "公开资料",
+  "demo": false,
+  "draft": false,
+  "sections": [
+    {
+      "heading": "原文摘录",
+      "body": "“从研究方向，到毕业论文设计，实现，撰写论文都得靠自己”\n“他对找工作没有任何帮助”"
+    }
+  ],
+  "sources": [
+    {
+      "label": "导师评价网：ZGX匿名评价原页",
+      "url": "https://www.ykakaoyan.cn/tutor/9683"
+    }
+  ],
+  "submission": ""
+}

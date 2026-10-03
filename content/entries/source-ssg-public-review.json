@@ -1,0 +1,28 @@
+{
+  "id": "source-ssg-public-review",
+  "advisor": "SSG（原站缩写）",
+  "group": "导师评价网 · ykakaoyan.cn",
+  "title": "SSG（原站缩写） · 评价原文",
+  "category": "沟通与管理",
+  "tags": [
+    "师生沟通",
+    "实习限制"
+  ],
+  "summary": "评价原文摘录，参考链接见下方。",
+  "status": "公开资料",
+  "demo": false,
+  "draft": false,
+  "sections": [
+    {
+      "heading": "原文摘录",
+      "body": "“精致的利己主义者”\n“学术水平：靠的是学生”\n“师生关系：高傲的存在，活在伪装的光环里”\n“学生前途：不允许实习”"
+    }
+  ],
+  "sources": [
+    {
+      "label": "导师评价网：SSG匿名评价原页",
+      "url": "https://www.ykakaoyan.cn/tutor/9691"
+    }
+  ],
+  "submission": ""
+}

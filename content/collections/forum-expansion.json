@@ -1,0 +1,188 @@
+{
+  "entries": [
+    {
+      "id": "ict-overall-kernel-706-21",
+      "advisor": "计算所整体",
+      "group": "Kernel 国科大社区 · 论坛讨论",
+      "title": "实习与科研指导 · Kernel 讨论摘录",
+      "scope": "overall",
+      "category": "科研与指导",
+      "tags": [
+        "论坛原句",
+        "实习限制",
+        "科研指导"
+      ],
+      "summary": "《想问问软件所和计算所差很多吗？》第21条回复中的原句。没有点名具体导师。",
+      "status": "公开资料",
+      "demo": false,
+      "draft": false,
+      "sections": [
+        {
+          "heading": "原文摘录 · 实习",
+          "body": "大部分组不允许实习"
+        },
+        {
+          "heading": "原文摘录 · 科研指导",
+          "body": "很多导师完全无法给予学术上的指导"
+        }
+      ],
+      "sources": [
+        {
+          "label": "参考：Kernel《想问问软件所和计算所差很多吗？》第21条回复",
+          "url": "https://ucaskernel.com/d/706/21"
+        }
+      ],
+      "submission": ""
+    },
+    {
+      "id": "ict-overall-eeban-71476",
+      "advisor": "泛在实验室（招生咨询）",
+      "group": "保研论坛 · 夏令营经历",
+      "title": "泛在实验室 · 招生咨询经历",
+      "scope": "overall",
+      "category": "其他经历",
+      "tags": [
+        "论坛原句",
+        "招生咨询",
+        "夏令营",
+        "经历"
+      ],
+      "summary": "《从电子到计算机（北理北航经验）》中关于泛在不同组考核形式的原句，描述经历。",
+      "status": "公开资料",
+      "demo": false,
+      "draft": false,
+      "sections": [
+        {
+          "heading": "原文摘录",
+          "body": "他们组单独招生，只面试，泛在其他组都要笔试"
+        }
+      ],
+      "sources": [
+        {
+          "label": "参考：保研论坛《从电子到计算机（北理北航经验）》",
+          "url": "https://www.eeban.com/thread-71476-1-1.html"
+        }
+      ],
+      "submission": ""
+    },
+    {
+      "id": "ict-overall-v2ex-473844-18",
+      "advisor": "计算所整体（就业路径）",
+      "group": "V2EX · 就业讨论",
+      "title": "毕业后直接赴美工作 · 论坛回复",
+      "scope": "overall",
+      "category": "其他经历",
+      "tags": [
+        "论坛原句",
+        "就业路径",
+        "讨论"
+      ],
+      "summary": "《论国内研究生毕业直接去美国工作的难度》第18条回复中的历史就业经历。",
+      "status": "公开资料",
+      "demo": false,
+      "draft": false,
+      "sections": [
+        {
+          "heading": "原文摘录",
+          "body": "另外计算所毕业直接去美国这条路很难走通了，前一届有，我们那届似乎一个都没有。"
+        }
+      ],
+      "sources": [
+        {
+          "label": "参考：V2EX《论国内研究生毕业直接去美国工作的难度》第18条回复",
+          "url": "https://www.v2ex.com/t/473844#reply18"
+        }
+      ],
+      "submission": ""
+    },
+    {
+      "id": "ict-overall-eeban-188187",
+      "advisor": "选导建议（未点名课题组）",
+      "group": "保研论坛 · 计算所保研者分享的通用建议",
+      "title": "选导建议 · 《末9的保研经验贴》",
+      "scope": "overall",
+      "category": "科研与指导",
+      "tags": [
+        "论坛原句",
+        "通用选导建议",
+        "未点名课题组"
+      ],
+      "summary": "原作者介绍自己保研至计算所；所摘段落属于通用选导建议，没有指认计算所某位导师或课题组。",
+      "status": "公开资料",
+      "demo": false,
+      "draft": false,
+      "sections": [
+        {
+          "heading": "原文摘录 · 通用选导建议",
+          "body": "至于不牛逼还压榨，往往会附带着瞎指挥、瞎比比"
+        }
+      ],
+      "sources": [
+        {
+          "label": "参考：保研论坛《末9的保研经验贴，你想知道的全在这里》第7项",
+          "url": "https://www.eeban.com/thread-188187-1-1.html"
+        }
+      ],
+      "submission": ""
+    },
+    {
+      "id": "ict-overall-1point3acres-1006740",
+      "advisor": "客座实习（招聘帖）",
+      "group": "一亩三分地 · 招聘信息",
+      "title": "客座实习 · 招聘帖中的住宿说明",
+      "scope": "overall",
+      "category": "工作与待遇",
+      "tags": [
+        "招聘帖原句",
+        "客座实习",
+        "住宿",
+        "信息"
+      ],
+      "summary": "《计算所实习生招聘》非技术事项中的住宿说明，属于该招聘帖的信息，并非学生对导师的评价。",
+      "status": "公开资料",
+      "demo": false,
+      "draft": false,
+      "sections": [
+        {
+          "heading": "原文摘录 · 招聘信息",
+          "body": "但床位需要排队，且住宿条件不太好"
+        }
+      ],
+      "sources": [
+        {
+          "label": "参考：一亩三分地《计算所实习生招聘》非技术事项",
+          "url": "https://www.1point3acres.com/bbs/thread-1006740-1-1.html"
+        }
+      ],
+      "submission": ""
+    }
+  ],
+  "references": [
+    {
+      "heading": "贴吧与论坛检索",
+      "body": "本次补充了 Kernel 国科大社区、保研论坛、V2EX 和一亩三分地的公开原句。通用选导建议和招聘信息在标题中标明类型。贴吧公开搜索目前未定位到可核对正文的相关导师负面评价，暂未新增贴吧评价条目。Kernel 提及的王道《中科院计算所实验室情况简要介绍》链接当前返回404，尚不能确认它与已有37楼截图是否来自同一帖子。",
+      "sources": [
+        {
+          "label": "Kernel：计算所与软件所讨论",
+          "url": "https://ucaskernel.com/d/706/21"
+        },
+        {
+          "label": "保研论坛：夏令营经历",
+          "url": "https://www.eeban.com/thread-71476-1-1.html"
+        },
+        {
+          "label": "V2EX：就业讨论",
+          "url": "https://www.v2ex.com/t/473844"
+        },
+        {
+          "label": "一亩三分地：实习招聘帖",
+          "url": "https://www.1point3acres.com/bbs/thread-1006740-1-1.html"
+        },
+        {
+          "label": "贴吧：中科院计算所公开搜索",
+          "url": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E4%B8%AD%E7%A7%91%E9%99%A2%E8%AE%A1%E7%AE%97%E6%89%80"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "source-cmy-public-review",
+  "advisor": "CMY（原站缩写）",
+  "group": "导师评价网 · ykakaoyan.cn",
+  "title": "CMY（原站缩写） · 评价原文",
+  "category": "科研与指导",
+  "tags": [
+    "沟通体验",
+    "论文支持",
+    "实习限制"
+  ],
+  "summary": "评价原文摘录，参考链接见下方。",
+  "status": "公开资料",
+  "demo": false,
+  "draft": false,
+  "sections": [
+    {
+      "heading": "原文摘录",
+      "body": "“不过脾气偶尔比较冲，特别是当你跟不上他思路的时候。”\n“整个实验室都是不允许实习的。”"
+    }
+  ],
+  "sources": [
+    {
+      "label": "导师评价网：CMY匿名评价原页",
+      "url": "https://www.ykakaoyan.cn/tutor/9684"
+    }
+  ],
+  "submission": ""
+}

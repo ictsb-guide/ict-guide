@@ -1,0 +1,28 @@
+{
+  "id": "bu-dongbo-public-review",
+  "advisor": "卜东波",
+  "group": "知乎 · 公开匿名回答",
+  "title": "卜东波 · 评价原文",
+  "category": "其他经历",
+  "tags": [
+    "匿名评价",
+    "未描述具体事件"
+  ],
+  "summary": "评价原文摘录，参考链接见下方。",
+  "status": "公开资料",
+  "demo": false,
+  "draft": false,
+  "sections": [
+    {
+      "heading": "原文摘录",
+      "body": "“就呵呵了。”"
+    }
+  ],
+  "sources": [
+    {
+      "label": "知乎：点名回答",
+      "url": "https://www.zhihu.com/question/60131230/answer/1637163205"
+    }
+  ],
+  "submission": ""
+}

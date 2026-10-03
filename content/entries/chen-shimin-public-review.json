@@ -1,0 +1,29 @@
+{
+  "id": "chen-shimin-public-review",
+  "advisor": "陈世敏",
+  "group": "CSDN · 网上汇总文章",
+  "title": "陈世敏 · 评价原文",
+  "category": "毕业与培养",
+  "tags": [
+    "招生确认",
+    "毕业年限",
+    "二手汇总"
+  ],
+  "summary": "评价原文摘录，参考链接见下方。",
+  "status": "公开资料",
+  "demo": false,
+  "draft": false,
+  "sections": [
+    {
+      "heading": "原文摘录",
+      "body": "“可能会达到8年，但不保证拿到学位。”"
+    }
+  ],
+  "sources": [
+    {
+      "label": "CSDN：网上汇总，数据管理研究组段落",
+      "url": "https://damodev.csdn.net/68a6f8f54e4959284dac191e.html"
+    }
+  ],
+  "submission": ""
+}

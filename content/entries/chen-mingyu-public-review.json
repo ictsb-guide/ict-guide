@@ -1,0 +1,32 @@
+{
+  "id": "chen-mingyu-public-review",
+  "advisor": "陈明宇",
+  "group": "知乎 · 公开匿名回答",
+  "title": "陈明宇 · 评价原文",
+  "category": "沟通与管理",
+  "tags": [
+    "匿名评价",
+    "未描述具体事件"
+  ],
+  "summary": "评价原文摘录，参考链接见下方。",
+  "status": "公开资料",
+  "demo": false,
+  "draft": false,
+  "sections": [
+    {
+      "heading": "原文摘录",
+      "body": "“就呵呵了。”\n\n“十楼cmy第三类 谁去谁倒霉”"
+    }
+  ],
+  "sources": [
+    {
+      "label": "知乎：点名回答",
+      "url": "https://www.zhihu.com/question/60131230/answer/1637163205"
+    },
+    {
+      "label": "知乎：缩写回答",
+      "url": "https://www.zhihu.com/question/60131230/answer/739943982"
+    }
+  ],
+  "submission": ""
+}
